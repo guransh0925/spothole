@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "678125344113",
+    "firebase_url": "https://pothole-detector-fb59f-default-rtdb.firebaseio.com",
+    "project_id": "pothole-detector-fb59f",
+    "storage_bucket": "pothole-detector-fb59f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678125344113:android:8af550ee62c4a29014d2d0",
+        "android_client_info": {
+          "package_name": "com.example.spothole"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhhhGN5nF9thTE0tTD9MzuwUAb-4tpfNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678125344113:android:692c48709695045014d2d0",
+        "android_client_info": {
+          "package_name": "com.example.testapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhhhGN5nF9thTE0tTD9MzuwUAb-4tpfNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
